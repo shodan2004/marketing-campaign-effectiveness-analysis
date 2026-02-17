@@ -126,5 +126,6 @@ pip install -r requirements.txt
 
 **Shodhan**
 📧 Email: [shodan.v3@gmail.com](mailto:shodan.v3@gmail.com)
-🌐 Linked-in: \[https://www.linkedin.com/in/shodhan-vemulapalli]
+🌐 Linked-in: \[ https://www.linkedin.com/in/shodhan-vemulapalli ]
+
 
